@@ -25,7 +25,7 @@ git init
 ```
 
 ```
-print('Hello, World!!!') # Проверка отображение я Python кода
+print('Hello, World!!!') # Проверка отображения Python кода
 ```
 
 Это лишь некоторые функции markdown.
